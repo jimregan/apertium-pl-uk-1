@@ -1,0 +1,31 @@
+* text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-pl-uk.pl-uk.dix -text
+/apertium-pl-uk.pl-uk.t1x -text
+/apertium-pl-uk.pl-uk.t2x -text
+/apertium-pl-uk.pl-uk.t3x -text
+/apertium-pl-uk.pl.dix -text
+/apertium-pl-uk.pl.tsx -text
+/apertium-pl-uk.post-pl.dix -text
+/apertium-pl-uk.post-uk.dix -text
+/apertium-pl-uk.translit-uk-std.dix -text
+/apertium-pl-uk.uk-pl.t1x -text
+/apertium-pl-uk.uk-pl.t2x -text
+/apertium-pl-uk.uk-pl.t3x -text
+/apertium-pl-uk.uk.dix -text
+/autogen.sh -text
+/configure.ac -text
+dev/apertium-pl-uk.uk.dix -text
+dev/interwiki.pl-uk -text
+dev/nouns.txt -text
+dev/nouns_1.txt -text
+dev/to-translate -text
+dev/translit.sed -text
+/modes.xml -text
+/pl-uk.prob -text svneol=unset#unset
+/uk-pl.prob -text
